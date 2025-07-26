@@ -16,9 +16,9 @@ Proyek ini digunakan untuk menampilkan jadwal shalat harian pada papan LED RGB. 
 - Menampilkan waktu shalat (Subuh, Dzuhur, Ashar, Maghrib, Isya) secara digital.
 - Dapat digunakan untuk masjid, mushola, atau tempat ibadah lainnya.
 
-## Preview
-<img src="https://github.com/AhmadMuzayyin/JWS-P10-RGB-64x64/blob/main/preview.jpg"/>
----
-
 Setiap file `.bin` merupakan firmware yang dapat diunggah ke papan LED RGB 16x128 x 2. Jadi
 instalasi dari panel p10 rgb untuk proyek ini sebenarnya dua rangkaian dijadikan satu, yaitu rangkaian 16x128 disusun ke bawah menjadi susunan 32x64 untuk jam istiwa dan susunan yang sama untuk jadwal shalatnya.
+
+## Preview
+<img src="https://github.com/AhmadMuzayyin/JWS-P10-RGB-64x64/blob/main/preview.jpg" height="100" width="100"/>
+
